@@ -7,4 +7,4 @@ This paper proposes REM, a solution that manages mobility based on the movement 
 # Contribution
 1. Conducted an empirical study for the network reliability in extreme mobility. With the datasets from the Chinese high-speed rails.
 2. Designed REM, the first movement-based reliable extreme mobility management for 4G, 5G and beyond. As a signaling overlay in the delay-Doppler domain, REM devises SVD-based cross-band estimation to relax the feedback, simplifies the policy for provable conflict freedom, and stabilizes the signaling with scheduling-based OTFS modulation.
-3. Prototyped REM using software-de￿ned radio, and systematically evaluate REM’s network failure reduction, policy conflict resolution, and system overhead.
+3. Prototyped REM using software-defined radio, and systematically evaluate REM’s network failure reduction, policy conflict resolution, and system overhead.
