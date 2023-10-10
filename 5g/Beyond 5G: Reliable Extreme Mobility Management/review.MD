@@ -1,1 +1,2 @@
-# Purpose
+# The problem presented in the paper
+The paper presents the issue of 4G/5G mobility management being unstable in situations of high-speed movement, such as on high-speed trains. The fundamental reason for the instability of 4G/5G in extreme mobility is presented as its design based on wireless signal strength. While this method is reasonable in static and low-mobility scenarios, the design is sensitive to the severe wireless dynamics caused by the Doppler shift in extreme mobility. Such dynamics propagate through all stages of mobility management, leading to slow feedback during triggering, missing optimal candidate cells during decision-making, and producing unstable signals during execution.
