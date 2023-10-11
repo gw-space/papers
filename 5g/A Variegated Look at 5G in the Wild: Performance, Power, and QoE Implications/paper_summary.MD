@@ -12,4 +12,4 @@ Examine different 5G carriers,
 
 Their findings reveal key characteristics of commercial 5G in terms of throughput, latency, handover behaviors, radio state transitions, and radio power consumption under the above diverse scenarios, with detailed comparisons to 4G/LTE networks.
 
-Furthermore, our study provides key insights into how upper-layer applications should best utilize 5G by balancing the critical tradeoff between performance and energy consumption, as well as by taking into account the availability of both network and computation resources.
+Furthermore, their study provides key insights into how upper-layer applications should best utilize 5G by balancing the critical tradeoff between performance and energy consumption, as well as by taking into account the availability of both network and computation resources.
