@@ -25,6 +25,7 @@
   - 우리의 알고리즘은 5초의 윈도우 사이즈만으로도 99% 이상 분류 가능
 
 - labeled 데이터 분류
+  - Downlink, Uplink 데이터 할당량 두 값만 이용
   - 10,000개의 데이터를 7:3으로 나누어 7학습 3분류 수행
   - Linear SVM, Logistic Regressor, Nearest Neighbours, Random Forest, Gaussian Processes(머신러닝)
   - MLP, RNN, CNN(딥러닝)
